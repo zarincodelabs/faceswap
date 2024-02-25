@@ -12,7 +12,7 @@ def render() -> None:
 	global DONATE_BUTTON
 
 	ABOUT_BUTTON = gradio.Button(
-		value = metadata.get('name') + ' ' + metadata.get('version'),
+		value = metadata.get('name')
 		variant = 'primary',
 		link = metadata.get('url')
 	)
