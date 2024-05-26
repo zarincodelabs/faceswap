@@ -1,11 +1,11 @@
 METADATA =\
 {
-	'name': 'FaceSwap By Zarin Solutions',
+	'name': 'FaceFusion',
 	'description': 'Next generation face swapper and enhancer',
-	'version': '3.0',
+	'version': '2.6.0',
 	'license': 'MIT',
-	'author': 'Anas',
-	'url': 'https://zarinsolutions.com'
+	'author': 'Henry Ruhs',
+	'url': 'https://facefusion.io'
 }
 
 

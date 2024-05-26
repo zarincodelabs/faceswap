@@ -18,6 +18,6 @@ def render() -> None:
 	)
 	DONATE_BUTTON = gradio.Button(
 		value = wording.get('uis.donate_button'),
-		link = 'https://anas.zarin.solutions',
+		link = 'https://donate.facefusion.io',
 		size = 'sm'
 	)

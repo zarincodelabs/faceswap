@@ -1,2 +1,3 @@
 MIT license
-Copyright 2015 to Today all rights reserved by Zarin Solutions Inc code with of ❤️ Muhammad Anas
+
+Copyright (c) 2024 Henry Ruhs
