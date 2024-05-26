@@ -16,7 +16,7 @@ Preview
 Installation
 ------------
 
-Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](https://buymeacoffee.com/henryruhs/e/251939) can have you up and running in minutes.
+Be aware, the [installation](https://zarin.solutions/contact.html) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](https://buymeacoffee.com/henryruhs/e/251939) can have you up and running in minutes.
 
 
 Usage
@@ -110,4 +110,4 @@ uis:
 Documentation
 -------------
 
-Read the [documentation](https://docs.facefusion.io) for a deep dive.
+Read the [documentation](https://zarinsolutions.com) for a deep dive.
